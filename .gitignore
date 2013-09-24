@@ -1,0 +1,13 @@
+*~
+*.swp
+/tags
+/TAGS
+/cscope.*
+/.patches/
+/.idea/
+/nbproject/
+.DS_Store
+/.settings/
+/.project
+/.buildpath
+/.cache

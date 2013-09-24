@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Behat Test Feed</title>
+    <link>http://moodle.org/mod/forum/view.php?f=1</link>
+    <description>
+This is a test feed.
+
+Moodle is a leading open-source course management system (CMS) - a software package designed to help educators create quality online courses. Such e-learning systems are sometimes also called Learning Management Systems (LMS) or Virtual Learning Environments (VLE). One of the main advantages of Moodle over other systems is a strong grounding in social constructionist pedagogy.</description>
+    <generator>Moodle</generator>
+    <copyright>&amp;#169; 2013 moodle</copyright>
+    <image>
+      <url>http://moodle.org/pix/i/rsssitelogo.gif</url>
+      <title>moodle</title>
+      <link>http://moodle.org</link>
+      <width>140</width>
+      <height>35</height>
+    </image>
+    <item>
+       <title>Feed item 1 title</title>
+       <link>http://moodle.org/mod/forum/discuss.php?d=85629</link>
+      <pubDate>Fri, 30 Nov 2007 16:47:33 WST</pubDate>
+      <description>Item 1 description.
+&lt;br /&gt;
+More info.
+</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=85629</guid>
+    </item>
+    <item>
+      <title>Feed item 2 title</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=84296</link>
+      <pubDate>Mon, 12 Nov 2007 16:58:29 WST</pubDate>
+      <description>Item 2 description.
+&lt;br /&gt;
+More info.
+</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=84296</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Moodle News</title>
+    <link>http://moodle.org/mod/forum/view.php?f=1</link>
+    <description>
+General news about Moodle.
+
+Moodle is a leading open-source course management system (CMS) - a software package designed to help educators create quality online courses. Such e-learning systems are sometimes also called Learning Management Systems (LMS) or Virtual Learning Environments (VLE). One of the main advantages of Moodle over other systems is a strong grounding in social constructionist pedagogy.</description>
+    <generator>Moodle</generator>
+    <copyright>&amp;#169; 2007 moodle</copyright>
+    <image>
+      <url>http://moodle.org/pix/i/rsssitelogo.gif</url>
+      <title>moodle</title>
+      <link>http://moodle.org</link>
+      <width>140</width>
+      <height>35</height>
+    </image>
+    <item>
+      <title>Google HOP contest encourages pre-University students to work on Moodle</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=85629</link>
+
+<enclosure url='http://code.google.com/opensource/ghop/2007-8/projects.html' type='text/html' />
+
+<enclosure url='http://code.google.com/p/google-highly-open-participation-moodle/issues/list' type='application/inspiration.template' />
+      <pubDate>Fri, 30 Nov 2007 16:47:33 WST</pubDate>
+      <description>by Martin Dougiamas. &amp;nbsp;&lt;p&gt;&lt;p&gt;&lt;img src=&quot;http://code.google.com/opensource/ghop/2007-8/images/ghoplogosm.jpg&quot; align=&quot;right&quot; style=&quot;margin:10px&quot; /&gt;After their very successful &lt;a href=&quot;http://code.google.com/soc/2007/&quot;&gt;Summer of Code&lt;/a&gt; program for University students, Google just announced their new &lt;a href=&quot;http://code.google.com/opensource/ghop/2007-8/&quot;&gt;Highly Open Participation contest&lt;/a&gt;, designed to encourage pre-University students to get involved with open source projects via much smaller and diverse contributions.&lt;br /&gt;
+&lt;br /&gt;
+I'm very proud that Moodle has been selected as one of only &lt;a href=&quot;http://code.google.com/opensource/ghop/2007-8/projects.html&quot;&gt;ten open source projects&lt;/a&gt; to take part in the inaugural year of this new contest.&lt;br /&gt;
+&lt;br /&gt;
+We have a &lt;a href=&quot;http://code.google.com/p/google-highly-open-participation-moodle/issues/list&quot;&gt;long list of small tasks&lt;/a&gt; prepared already for students, but we would definitely like to see the Moodle community come up with more - so if you have any ideas for things you want to see done, please &lt;a href=&quot;http://code.google.com/p/google-highly-open-participation-moodle/&quot;&gt;send them to us&lt;/a&gt;!  Just remember they can't take more than five days.&lt;br /&gt;
+&lt;br /&gt;
+Google will pay students US$100 for every three tasks they successfully complete, plus send a cool T-shirt.  There are also grand prizes including an all-expenses-paid trip to Google HQ in Mountain View, California.  If you are (or know) a young student with an interest in Moodle then give it a go! &lt;br /&gt;
+&lt;br /&gt;
+You can find out all the details on the &lt;a href=&quot;http://code.google.com/p/google-highly-open-participation-moodle/&quot;&gt;Moodle/GHOP contest site&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=85629</guid>
+    </item>
+    <item>
+      <title>Moodle Bugathon!</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=84296</link>
+      <pubDate>Mon, 12 Nov 2007 16:58:29 WST</pubDate>
+      <description>by Martin Dougiamas. &amp;nbsp;&lt;p&gt;&lt;p&gt;Some people are wondering: &quot;Where is Moodle 1.9&quot;?  &lt;br /&gt;
+&lt;br /&gt;
+Well, it's still &lt;a href=&quot;http://tracker.moodle.org/secure/IssueNavigator.jspa?mode=hide&amp;requestId=10435&quot;&gt;being polished&lt;/a&gt; in order to make it as good as possible.  One of the things I really want to avoid is a repeat of our Moodle 1.7 release which was (in retrospect) a little rushed - the implementation of Roles caught a lot of people by surprise.&lt;br /&gt;
+&lt;br /&gt;
+So in the name of stability and clarity and consistency and all those good things, we are having a &lt;a href=&quot;http://docs.moodle.org/en/Bugathon&quot;&gt;Moodle Bugathon&lt;/a&gt;. &lt;img alt=&quot;approve&quot; width=&quot;15&quot; height=&quot;15&quot; src=&quot;http://moodle.org/pix/s/approve.gif&quot; /&gt;  Some seriously nice prizes are available to developers who fix the most bugs, test the most bugs, file the most bugs, or even just identify the most duplicate bug reports in the &lt;a href=&quot;http://tracker.moodle.org/browse/MDL&quot;&gt;Moodle Tracker&lt;/a&gt;!&lt;br /&gt;
+&lt;br /&gt;
+All developers and testers are welcome, even if you've been lurking until now.   Join in the bug stomp, and let's make 1.9 the new 1.6.   &lt;img alt=&quot;wink&quot; width=&quot;15&quot; height=&quot;15&quot; src=&quot;http://moodle.org/pix/s/wink.gif&quot; /&gt;  &lt;img alt=&quot;big grin&quot; width=&quot;15&quot; height=&quot;15&quot; src=&quot;http://moodle.org/pix/s/biggrin.gif&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;
+Full details are here:  &lt;a href=&quot;http://docs.moodle.org/en/Bugathon&quot; target=&quot;_blank&quot;&gt;http://docs.moodle.org/en/Bugathon&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=84296</guid>
+    </item>
+    <item>
+      <title>Nominate Moodle for Packt's Open Source CMS award</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=77246</link>
+      <pubDate>Fri, 03 Aug 2007 11:16:27 WST</pubDate>
+      <description>by Martin Dougiamas. &amp;nbsp;&lt;p&gt;&lt;p&gt;If you believe Moodle should win this award, please nominate us:&lt;br /&gt;
+&lt;br /&gt;
+  &lt;a href=&quot;http://www.packtpub.com/article/nominate-overall-open-source-cms-winner&quot; target=&quot;_blank&quot;&gt;http://www.packtpub.com/article/nominate-overall-open-source-cms-winner&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+Even though Moodle is technically not a &lt;a class=&quot;data autolink&quot; title=&quot;Content Management System&quot; href=&quot;http://moodle.org/mod/data/view.php?d=13&amp;amp;rid=500&quot; &gt;content management system&lt;/a&gt; Packt assures me that we qualify.&lt;br /&gt;
+&lt;br /&gt;
+In other news Moodle 1.9 is coming along well and we should have a Beta release very soon!  &lt;img alt=&quot;[[yes]]&quot; width=&quot;15&quot; height=&quot;15&quot; src=&quot;http://moodle.org/pix/s/yes.gif&quot; /&gt;&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=77246</guid>
+    </item>
+    <item>
+      <title>New full-time developer needed at Moodle HQ</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=71624</link>
+      <pubDate>Wed, 16 May 2007 13:21:08 WST</pubDate>
+      <description>by Martin Dougiamas. &amp;nbsp;&lt;p&gt;&lt;p&gt;We are looking for a new PHP developer to work with us full-time on location here at &lt;a href=&quot;http://moodle.com/hq/&quot;&gt;Moodle HQ&lt;/a&gt; in Perth, Western Australia.&lt;br /&gt;
+&lt;br /&gt;
+If you know someone who might be interested, or who might know someone who might be interested please let them know!&lt;br /&gt;
+&lt;br /&gt;
+Strong PHP skills and good web design are definitely required to succeed in this role. You will need a high degree of self-motivation but will have the support of a knowledgeable team in Perth as well as a fun international developer community. A solid understanding of Moodle architecture will be viewed favourably.&lt;br /&gt;
+&lt;br /&gt;
+RESPONSIBILITIES&lt;ul&gt;&lt;li&gt;Write high quality PHP code conforming to Moodle guidelines&lt;/li&gt;&lt;li&gt;Unit testing&lt;/li&gt;&lt;li&gt;Reviewing peer code&lt;/li&gt;&lt;li&gt;Investigate and resolve bugs&lt;/li&gt;&lt;li&gt;Participate in planning and design sessions (online and offline)&lt;/li&gt;&lt;li&gt;Escalate issues when appropriate&lt;/li&gt;&lt;/ul&gt; &lt;br /&gt;
+ESSENTIAL SKILLS&lt;ul&gt;&lt;li&gt;Min 3 years experience working in a development environment&lt;/li&gt;&lt;li&gt;Relevant tertiary qualifications or equivalent commercial experience&lt;/li&gt;&lt;li&gt;Ability to operate with minimal supervision&lt;/li&gt;&lt;li&gt;Ability to complete tasks to deadline&lt;/li&gt;&lt;li&gt;Ability to work as a member of a team&lt;/li&gt;&lt;li&gt;Good communication&lt;/li&gt;&lt;/ul&gt; &lt;br /&gt;
+TECHNICAL SKILLS&lt;ul&gt;&lt;li&gt;Very strong PHP programming skills&lt;/li&gt;&lt;li&gt;Good knowledge of XHTML Strict 1.0 and CSS&lt;/li&gt;&lt;li&gt;Good knowledge of MySQL and/or PostgreSQL&lt;/li&gt;&lt;li&gt;Good knowledge of Linux system administration&lt;/li&gt;&lt;li&gt;Familiarity with using the UNIX shell&lt;/li&gt;&lt;li&gt;Javascript and AJAX experience would help&lt;/li&gt;&lt;/ul&gt; &lt;br /&gt;
+
+&lt;br /&gt;
+Interested?  Please send your resumé with cover letter to &amp;#106;&amp;#111;&amp;#98;&amp;#115;&amp;#64;&amp;#109;&amp;#111;o&amp;#100;l&amp;#101;&amp;#46;&amp;#99;om !&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=71624</guid>
+    </item>
+    <item>
+      <title>moodle.org could be having some hardware problems</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=70338</link>
+      <pubDate>Sun, 29 Apr 2007 11:18:31 WST</pubDate>
+      <description>by Martin Dougiamas. &amp;nbsp;&lt;p&gt;&lt;p&gt;This server has been having some unusual problems causing it to lock up every now and then.  The loads have been high (lots of visitors!) but I don't think that's the whole issue here.&lt;br /&gt;
+&lt;br /&gt;
+We'll be bringing it down for maintenance sometime later today (so it will be unavailable for a while).&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=70338</guid>
+    </item>
+    <item>
+      <title>Moodle CVS down for anonymous users</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=70126</link>
+      <pubDate>Thu, 26 Apr 2007 12:36:14 WST</pubDate>
+      <description>by Martin Dougiamas. &amp;nbsp;&lt;p&gt;&lt;p&gt;Unfortunately our anonymous CVS service (at Sourceforge) is currently down, which may impact administrators using CVS to maintain their &lt;a class=&quot;autolink&quot; title=&quot;Moodle Sites&quot; href=&quot;http://moodle.org/mod/resource/view.php?id=380&quot; &gt;Moodle sites&lt;/a&gt;. (Development access is unaffected).&lt;br /&gt;
+&lt;br /&gt;
+Sourceforge have told us they switched it off due to very high loads on that server - this may be due to our growing number of users but it may just be a rampant process somewhere.   We're still working it out with them.&lt;br /&gt;
+&lt;br /&gt;
+In the meantime we're working on a CVS mirror just in case the Sourceforge service doesn't come back up.&lt;br /&gt;
+&lt;br /&gt;
+For full details and updates, you can watch &lt;a title=&quot;Link to Moodle Tracker&quot; href=&quot;http://tracker.moodle.org/browse/MDLSITE-182&quot; target=&quot;newpage&quot;&gt;MDLSITE-182&lt;/a&gt; in the &lt;a href=&quot;http://tracker.moodle.org/browse/MDL&quot;&gt;Moodle Tracker&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=70126</guid>
+    </item>
+    <item>
+      <title>Moodle takes on ten new developers from Google SOC 2007</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=69208</link>
+      <pubDate>Mon, 16 Apr 2007 11:57:19 WST</pubDate>
+      <description>by Martin Dougiamas. &amp;nbsp;&lt;p&gt; I'm very happy to announce that we will again be participating in the &lt;a href=&quot;http://code.google.com/soc/&quot;&gt;Google Summer of Code Program&lt;/a&gt; (an annual event where Google pays students to work for three months on open source projects mentored by established developers). &lt;br /&gt;&lt;br /&gt;We had 83 applicants for 10 projects! The projects cover a number of features and improvements that have been much requested by segments of the Moodle user community.&lt;br /&gt;&lt;br /&gt;For full information about the projects, see the &lt;a href=&quot;http://docs.moodle.org/en/Student_projects&quot;&gt;Student projects&lt;/a&gt; page in Moodle Docs.&lt;br /&gt; &lt;/p&gt;</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=69208</guid>
+    </item>
+    <item>
+      <title>Moodle wins multiple awards from the eLearning Guild!</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=68408</link>
+
+<enclosure url='http://moodle.com/partners/list' type='application/inspiration.template' />
+      <pubDate>Wed, 04 Apr 2007 10:01:13 WST</pubDate>
+      <description>by Martin Dougiamas. &amp;nbsp;&lt;p&gt;&lt;span class=&quot;nolink&quot;&gt;
+&lt;p&gt;The eLearning Guild has just released their &lt;a href=&quot;http://www.elearningguild.com/360&quot;&gt;Guild Research 360&lt;sup&gt;o&lt;/sup&gt; Report on Learning Management Systems&lt;/a&gt;, based on a survey of 930 e-Learning professionals representing 840 different organizations world-wide.&lt;br /&gt; &lt;br /&gt; The survey covers market share and satisfaction ratings in various key sectors using LMS products.&lt;/p&gt;
+&lt;p&gt;Moodle took out three Platinum awards (top award) and one Gold award (runner-up).&lt;br /&gt;&lt;/p&gt;&lt;/span&gt;
+&lt;p&gt;&lt;font size=&quot;4&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Education and Government Learning Management Systems:&lt;/span&gt;&lt;/font&gt; &lt;/p&gt;
+&lt;table cellpadding=&quot;10&quot;&gt;&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;50%&quot; valign=&quot;top&quot; style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;150&quot; vspace=&quot;0&quot; hspace=&quot;0&quot; height=&quot;119&quot; border=&quot;0&quot; title=&quot;Platinum Award&quot; alt=&quot;Platinum Award&quot; src=&quot;http://www.elearningguild.com/images/GuildResearch-Platinum%20X150.jpg&quot; /&gt;&lt;font size=&quot;4&quot;&gt;&lt;br /&gt;Satisfaction&lt;/font&gt;&lt;br /&gt;
+    &lt;/td&gt;
+    &lt;td width=&quot;50%&quot; valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot;&gt;&lt;img width=&quot;150&quot; vspace=&quot;0&quot; hspace=&quot;0&quot; height=&quot;119&quot; border=&quot;0&quot; title=&quot;Gold Award&quot; alt=&quot;Gold Award&quot; src=&quot;http://www.elearningguild.com/images/GuildResearch-Gold%20X150.jpg&quot; /&gt;&lt;br /&gt;&lt;font size=&quot;4&quot; style=&quot;font-weight: normal;&quot;&gt;Market Share&lt;/font&gt;&lt;br /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;&lt;/tbody&gt;
+&lt;/table&gt;&lt;br /&gt;
+&lt;p&gt;&lt;font size=&quot;4&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Small and Medium Corporate Learning Management Systems:&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;table cellpadding=&quot;10&quot;&gt;&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;50%&quot; valign=&quot;top&quot; style=&quot;text-align: center;&quot;&gt;&lt;img width=&quot;150&quot; vspace=&quot;0&quot; hspace=&quot;0&quot; height=&quot;119&quot; border=&quot;0&quot; title=&quot;Platinum Award&quot; alt=&quot;Platinum Award&quot; src=&quot;http://www.elearningguild.com/images/GuildResearch-Platinum%20X150.jpg&quot; /&gt;&lt;font size=&quot;4&quot;&gt;&lt;br /&gt;Satisfaction&lt;/font&gt;&lt;br /&gt;
+    &lt;/td&gt;
+    &lt;td width=&quot;50%&quot; valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot;&gt;&lt;img width=&quot;150&quot; vspace=&quot;0&quot; hspace=&quot;0&quot; height=&quot;119&quot; border=&quot;0&quot; title=&quot;Platinum Award&quot; alt=&quot;Platinum Award&quot; src=&quot;http://www.elearningguild.com/images/GuildResearch-Platinum%20X150.jpg&quot; /&gt;&lt;br /&gt;&lt;font size=&quot;4&quot; style=&quot;font-weight: normal;&quot;&gt;Market Share&lt;/font&gt;&lt;br /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;span class=&quot;nolink&quot;&gt;&lt;p&gt;&lt;br /&gt; For more details, see the &lt;a href=&quot;http://www.elearningguild.com/pbuild/linkbuilder.cfm?selection=doc.1373&quot;&gt;eLearning Guild press release&lt;/a&gt;.&lt;br /&gt; &lt;br /&gt; Now's a good opportunity to thank our worldwide Moodle community of teachers, students, researchers, developers and other participants who help make the Moodle project what it is. &lt;img alt=&quot;smile&quot; width=&quot;15&quot; height=&quot;15&quot; src=&quot;http://moodle.org/pix/s/smiley.gif&quot; /&gt;&lt;br /&gt; &lt;br /&gt; We also want to thank our &lt;a href=&quot;http://moodle.com/partners/list&quot;&gt;Moodle Partners&lt;/a&gt; and the clients of our commercial services who contribute to the funding of our core team of developers and keep the software Free. If you need &lt;a href=&quot;http://moodle.com/hosting/&quot;&gt;Moodle hosting&lt;/a&gt;, &lt;a href=&quot;http://moodle.com/training/&quot;&gt;Moodle training&lt;/a&gt; or any other Moodle services, please use an official &lt;a href=&quot;http://moodle.com/partners/&quot;&gt;Moodle Partner&lt;/a&gt; company (you can find them listed on &lt;a href=&quot;http://moodle.com/&quot;&gt;moodle.com&lt;/a&gt;).&lt;/p&gt;&lt;/span&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=68408</guid>
+    </item>
+    <item>
+      <title>Moodle 1.8 released!</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=68148</link>
+      <pubDate>Sat, 31 Mar 2007 23:13:59 WST</pubDate>
+      <description>by Martin Dougiamas. &amp;nbsp;&lt;p&gt;&lt;p&gt;&lt;img src=&quot;http://moodle.org/images/moodle-1.8.jpg&quot; align=&quot;right&quot; /&gt; &lt;br /&gt;
+At long last, Moodle 1.8 is ready for production sites. &lt;img alt=&quot;big grin&quot; width=&quot;15&quot; height=&quot;15&quot; src=&quot;http://moodle.org/pix/s/biggrin.gif&quot; /&gt;&lt;br /&gt;
+ &lt;span class=&quot;nolink&quot;&gt; &lt;br /&gt;
+After some of the issues some people experienced with Moodle 1.7, we modified our release process somewhat to give the testing team more time to help developers evaluate and stabilise all the new work in Moodle 1.8.  As a result I think Moodle 1.8 release is of a very high standard and I highly recommend production sites using older versions to upgrade to Moodle 1.8.&lt;br /&gt;
+&lt;br /&gt;
+In this release we've (again) changed nearly every one of the thousands of scripts in Moodle.  Here is a taste of some of the biggest new features:&lt;br /&gt;
+ &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Accessibility improvements&lt;/strong&gt; - Moodle now complies with all major international standards in this area, including XHTML Strict 1.0.  All the main forms are now consistently generated using a new core forms library.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Moodle Network&lt;/strong&gt; - the foundation of our networking strategy leading up to Moodle 2.0, it is now possible to link Moodle sites allowing cross-site roaming, transparent enrolments and remote log viewing.  We also now include a Web Services API using XML-RPC for remote control and commands.  These features are a result of the work of Richard Wyles and Catalyst in New Zealand - thank you!&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Roles improvements&lt;/strong&gt; - after feedback from the community, our implementation of Roles from 1.7 has been further improved to increase the usability and flexibility.&lt;/li&gt;&lt;/ul&gt; &lt;br /&gt;
+There's a lot more in this release - full details are the in the &lt;a href=&quot;http://docs.moodle.org/en/Release_Notes#Moodle_1.8&quot;&gt;Moodle 1.8 Release Notes&lt;/a&gt;, and downloads are, as usual, on the &lt;a href=&quot;http://download.moodle.org/&quot;&gt;Moodle Downloads&lt;/a&gt; page.&lt;br /&gt;
+&lt;br /&gt;
+Thanks to all the developers, testers, users and supporters who, as usual, help make the Moodle project possible.&lt;br /&gt;
+&lt;br /&gt;
+Enjoy!  I hope this version makes it easier for educators to facilitate quality online learning.&lt;br /&gt;
+ &lt;/span&gt; &lt;br /&gt;
+&lt;img alt=&quot;[[martin]]&quot; width=&quot;15&quot; height=&quot;15&quot; src=&quot;http://moodle.org/pix/s/martin.gif&quot; /&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=68148</guid>
+    </item>
+    <item>
+      <title>Moodle 1.7.2 and Moodle 1.6.5 released</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=68146</link>
+      <pubDate>Sat, 31 Mar 2007 22:10:20 WST</pubDate>
+      <description>by Martin Dougiamas. &amp;nbsp;&lt;p&gt;&lt;p&gt;We've just released two new packages of the older 1.7 and 1.6 releases, containing a number of bug fixes.&lt;br /&gt;
+&lt;br /&gt;
+In particular, a number of minor security issues were fixed, so even if you don't plan to make any major upgrades in the near future, we highly recommend upgrading to the latest stable package for your version.&lt;br /&gt;
+&lt;br /&gt;
+You can find all detailed information about the releases in the release notes for &lt;a href=&quot;http://docs.moodle.org/en/Release_Notes#Moodle_1.7.2&quot;&gt;Moodle 1.7.2&lt;/a&gt; and &lt;a href=&quot;http://docs.moodle.org/en/Release_Notes#Moodle_1.6.5&quot;&gt;Moodle 1.6.5&lt;/a&gt;, and of course, all the downloads are available on the &lt;a href=&quot;http://download.moodle.org/&quot;&gt;&lt;a target=&quot;download&quot; href=&quot;http://download.moodle.org/&quot;&gt;Moodle download&lt;/a&gt; page&lt;/a&gt;.  &lt;img alt=&quot;smile&quot; width=&quot;15&quot; height=&quot;15&quot; src=&quot;http://moodle.org/pix/s/smiley.gif&quot; /&gt;&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=68146</guid>
+    </item>
+    <item>
+      <title>Moodle wins two WAITTA awards</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=67833</link>
+      <pubDate>Tue, 27 Mar 2007 14:41:05 WST</pubDate>
+      <description>by Martin Dougiamas. &amp;nbsp;&lt;p&gt;&lt;p&gt;&lt;span class=&quot;nolink&quot;&gt;Despite Moodle's popularity around the world it's always nice to have some local recognition from one's home state. &lt;img alt=&quot;smile&quot; width=&quot;15&quot; height=&quot;15&quot; src=&quot;http://moodle.org/pix/s/smiley.gif&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;
+Many of you know that the Moodle project was started in &lt;a href=&quot;http://maps.google.com/maps?f=q&amp;hl=en&amp;q=16+Wickham+St,+East+Perth,+Western+Australia+6004,+Australia&amp;sll=37.0625,-95.677068&amp;sspn=56.331468,88.330078&amp;layer=&amp;ie=UTF8&amp;z=16&amp;ll=-31.954511,115.875099&amp;spn=0.014929,0.028603&amp;t=h&amp;om=1&quot;&gt;Perth, Western Australia&lt;/a&gt; and we continue to be based here (&lt;a href=&quot;http://moodle.com/hq/&quot;&gt;our headquarters&lt;/a&gt;).&lt;br /&gt;
+&lt;br /&gt;
+At a big annual awards dinner for the &lt;a href=&quot;http://www.waitta.asn.au/wai_winnersyear.jsp?Year=2006&quot;&gt;Western Australian Information Technology and Telecommunications Awards&lt;/a&gt; last weekend, Moodle won two categories out of the ten: one for &quot;&lt;b&gt;Best Exporter&lt;/b&gt;&quot; and one for &quot;&lt;b&gt;Best Online Service&lt;/b&gt;&quot;, plus we were a finalist for &quot;&lt;b&gt;Best Product&lt;/b&gt;&quot;.&lt;br /&gt;
+ &lt;/span&gt;&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=67833</guid>
+    </item>
+    <item>
+      <title>Google Summer of Code 2007</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=67227</link>
+
+<enclosure url='http://code.google.com/soc' type='text/plain' />
+      <pubDate>Mon, 19 Mar 2007 16:08:23 WST</pubDate>
+      <description>by Martin Dougiamas. &amp;nbsp;&lt;p&gt;&lt;p&gt;Time is running out for student programmers to apply for projects under the exciting &lt;a href=&quot;http://code.google.com/soc&quot;&gt;Google Summer of Code 2007&lt;/a&gt; &lt;a class=&quot;data autolink&quot; title=&quot;Project&quot; href=&quot;http://moodle.org/mod/data/view.php?d=13&amp;amp;rid=107&quot; &gt;project&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+If you want to work on Moodle (during May to August 2007), becoming part of our great development community here while Google pays your way (US$4500 for each accepted student), then:&lt;br /&gt;
+&lt;br /&gt;
+1) Peruse &lt;a href=&quot;http://docs.moodle.org/en/Student_projects&quot;&gt;our list of Moodle projects for students&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+2) &lt;a href=&quot;http://groups.google.com/group/google-summer-of-code-announce/web/guide-to-the-gsoc-web-app-for-student-applicants&quot;&gt;Apply to Google&lt;/a&gt; giving full details of your preferred project and how you plan to tackle it.&lt;br /&gt;
+&lt;br /&gt;
+Be quick, you have only until March 24!   &lt;img alt=&quot;smile&quot; width=&quot;15&quot; height=&quot;15&quot; src=&quot;http://moodle.org/pix/s/smiley.gif&quot; /&gt;&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=67227</guid>
+    </item>
+    <item>
+      <title>Moodle.org is running Moodle 1.8 Beta</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=66264</link>
+      <pubDate>Wed, 07 Mar 2007 00:19:47 WST</pubDate>
+      <description>by Martin Dougiamas. &amp;nbsp;&lt;p&gt;&lt;p&gt;In an effort to get a wider range of testing on Moodle 1.8 beta I've upgraded this site to use it.&lt;br /&gt;
+&lt;br /&gt;
+As a result you may notice a few rough edges and bugs but on the bright side you're all helping make Moodle 1.8 a really rock-solid and efficient release (not too far off now).&lt;br /&gt;
+&lt;br /&gt;
+Keep those bug reports coming to the &lt;a href=&quot;http://tracker.moodle.org/browse/MDL&quot;&gt;Moodle Tracker&lt;/a&gt;!&lt;br /&gt;
+&lt;br /&gt;
+Thanks!&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=66264</guid>
+    </item>
+    <item>
+      <title>Moodle Job at Moodle HQ</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=64967</link>
+      <pubDate>Fri, 16 Feb 2007 15:11:44 WST</pubDate>
+      <description>by Martin Dougiamas. &amp;nbsp;&lt;p&gt;&lt;p&gt;We're looking for an experienced developer to work with us as part of the core development team on-site at &lt;a href=&quot;http://moodle.com/hq&quot;&gt;Moodle HQ&lt;/a&gt; in Perth.&lt;br /&gt;
+&lt;br /&gt;
+Strong PHP skills and good web design are definitely required to succeed in this role. You will need a high degree of self-motivation but will have the support of a knowledgeable team in Perth as well as a fun international developer community. A solid understanding of Moodle architecture will be viewed favourably.&lt;br /&gt;
+&lt;br /&gt;
+RESPONSIBILITIES&lt;ul&gt;&lt;li&gt;Write high quality PHP code conforming to Moodle guidelines&lt;/li&gt;&lt;li&gt;Unit testing&lt;/li&gt;&lt;li&gt;Reviewing peer code&lt;/li&gt;&lt;li&gt;Investigate and resolve bugs&lt;/li&gt;&lt;li&gt;Participate in planning and design sessions (online and offline)&lt;/li&gt;&lt;li&gt;Escalate issues when appropriate&lt;/li&gt;&lt;/ul&gt; &lt;br /&gt;
+ESSENTIAL SKILLS&lt;ul&gt;&lt;li&gt;Min 3 years experience working in a development environment&lt;/li&gt;&lt;li&gt;Relevant tertiary qualifications or equivalent commercial experience&lt;/li&gt;&lt;li&gt;Ability to operate with minimal supervision&lt;/li&gt;&lt;li&gt;Ability to complete tasks to deadline&lt;/li&gt;&lt;li&gt;Ability to work as a member of a team&lt;/li&gt;&lt;li&gt;Good communication&lt;/li&gt;&lt;/ul&gt; &lt;br /&gt;
+TECHNICAL SKILLS&lt;ul&gt;&lt;li&gt;Very strong PHP programming skills&lt;/li&gt;&lt;li&gt;Good knowledge of XHTML Strict 1.0 and CSS&lt;/li&gt;&lt;li&gt;Good knowledge of MySQL and/or PostgreSQL&lt;/li&gt;&lt;li&gt;Good knowledge of Linux system administration&lt;/li&gt;&lt;li&gt;Familiarity with using the UNIX shell&lt;/li&gt;&lt;li&gt;Javascript and AJAX experience would help&lt;/li&gt;&lt;/ul&gt; &lt;br /&gt;
+
+&lt;br /&gt;
+Interested?  Please send your resumé with cover letter to &amp;#106;o&amp;#98;s@&amp;#109;&amp;#111;&amp;#111;d&amp;#108;&amp;#101;&amp;#46;&amp;#99;&amp;#111;&amp;#109; !&lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=64967</guid>
+    </item>
+    <item>
+      <title>Moodle 1.7 is released!</title>
+      <link>http://moodle.org/mod/forum/discuss.php?d=57989</link>
+      <pubDate>Tue, 07 Nov 2006 22:09:47 WST</pubDate>
+      <description>by Martin Dougiamas. &amp;nbsp;&lt;p&gt;&lt;p&gt;&lt;span class=&quot;nolink&quot;&gt;&lt;img src=&quot;http://moodle.org/images/moodle-1.7.jpg&quot; align=&quot;right&quot; hspace=&quot;10&quot; /&gt;&lt;p&gt;We're proud to announce the latest major version of Moodle fresh from the oven:  &lt;strong&gt;Moodle 1.7&lt;/strong&gt; !&lt;/p&gt;&lt;p&gt;The four big headline features are:&lt;br /&gt;
+ &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Roles&lt;/strong&gt; - Moodle has a complete new architecture for assigning people permissions.  It's very flexible, allowing you to give just a single person the right to delete posts in one particular forum, if you want that!  Thanks to &lt;a href=&quot;http://www.open.ac.uk/&quot;&gt;Open University&lt;/a&gt; for sponsoring &lt;a href=&quot;http://moodle.com/hq/&quot;&gt;Moodle HQ&lt;/a&gt; in this development!&lt;br /&gt;
+ &lt;/li&gt;&lt;li&gt;&lt;strong&gt;XML database schema&lt;/strong&gt; - Moodle now supports a single way of specifying database structures using XML, which not only makes development a lot easier for programmers, but allows us to support a wider range of databases.  One of our frequent requests is now a reality - in addition to MySQL and PostgreSQL, Moodle can now run out of the box on &lt;b&gt;Microsoft SQL Server&lt;/b&gt; and Oracle (with more databases to come).  Thanks to &lt;a href=&quot;http://microsoft.com/&quot;&gt;Microsoft&lt;/a&gt; for sponsoring Moodle HQ in this development!&lt;br /&gt;
+ &lt;/li&gt;&lt;li&gt;&lt;strong&gt;New admin interface&lt;/strong&gt; - admins get a productivity boost with a new interface designed to make it much easier to find settings and configure Moodle properly.   Thanks to &lt;a href=&quot;http://code.google.com/soc/&quot;&gt;Google&lt;/a&gt; for sponsoring most of this development!&lt;br /&gt;
+ &lt;/li&gt;&lt;li&gt;&lt;strong&gt;Unit testing framework&lt;/strong&gt; - developers can now easily write unit tests that can be run as part of a system check to make sure Moodle code is performing as expected.  As Moodle grows this will really help us maintain certain levels of quality.  Thanks to Open University for contributing this!&lt;br /&gt;
+ &lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;There are plenty of other smaller features and fixes created by &lt;a href=&quot;http://tracker.moodle.org/browse/MDL&quot;&gt;developers and testers&lt;/a&gt; from all over the place (thanks!!).  You can find out all the details from the &lt;a href=&quot;http://docs.moodle.org/en/Release_Notes#Moodle_1.7&quot;&gt;Release notes&lt;/a&gt; in our comprehensive &lt;a href=&quot;http://docs.moodle.org/&quot;&gt;Moodle Docs&lt;/a&gt;.  (Some of the documentation for 1.7 is still catching up!)&lt;/p&gt;&lt;p&gt;Of course, you can &lt;a target=&quot;download&quot; href=&quot;http://download.moodle.org/&quot;&gt;download Moodle&lt;/a&gt; as always from our &lt;a href=&quot;http://download.moodle.org/&quot;&gt;Moodle Download&lt;/a&gt; server.&lt;/p&gt;&lt;/span&gt;&lt;p&gt;Enjoy!  Good luck with all your &lt;a class=&quot;autolink&quot; title=&quot;Moodle Sites&quot; href=&quot;http://moodle.org/mod/resource/view.php?id=380&quot; &gt;Moodle sites&lt;/a&gt; &lt;img alt=&quot;[[yes]]&quot; width=&quot;15&quot; height=&quot;15&quot; src=&quot;http://moodle.org/pix/s/yes.gif&quot; /&gt; and wish us well for Moodle 1.8 (already well under way!)&lt;/p&gt; &lt;br /&gt;
+&lt;img alt=&quot;[[martin]]&quot; width=&quot;15&quot; height=&quot;15&quot; src=&quot;http://moodle.org/pix/s/martin.gif&quot; /&gt;&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">http://moodle.org/mod/forum/discuss.php?d=57989</guid>
+    </item>
+  </channel>
+</rss>
