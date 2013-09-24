@@ -10,7 +10,7 @@ Installation:
 2. edit config.php to include: define('TEST_EXTERNAL_FILES_HTTP_URL', 'http://localhost/moodle-exttests');
 3. optionally configure SSL on your test server and define('TEST_EXTERNAL_FILES_HTTPS_URL', 'https://localhost/moodle-exttests');
 
-This folder contains 4 files that are used for unit testing
+This folder contains several files that are used for unit testing
 Moodle download capabilities.
 
 File specs:
