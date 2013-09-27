@@ -5,9 +5,10 @@ if (isset($_GET['done']) and $_GET['done'] == 1) {
     die;
 }
 
-$testurl = 'http://download.moodle.org/unittest/test_redir.php';
+// Redirect to full self URL.
+$testurl = 'http://'.$_SERVER['HTTP_HOST'].':'.$_SERVER['SERVER_PORT'].$_SERVER['SCRIPT_NAME'];
 
-$redir = isset($_GET['redir']) ? $_GET['redir'] : 5;
+$redir = isset($_GET['redir']) ? (int)$_GET['redir'] : 5;
 if ($redir > 10) {
     $redir = 10;
 }
