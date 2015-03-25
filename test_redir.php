@@ -6,7 +6,7 @@ if (isset($_GET['done']) and $_GET['done'] == 1) {
 }
 
 // Redirect to full self URL.
-$testurl = 'http://'.$_SERVER['HTTP_HOST'].':'.$_SERVER['SERVER_PORT'].$_SERVER['SCRIPT_NAME'];
+$testurl = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['SCRIPT_NAME'];
 
 $redir = isset($_GET['redir']) ? (int)$_GET['redir'] : 5;
 if ($redir > 10) {
