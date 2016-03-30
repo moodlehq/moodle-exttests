@@ -7,7 +7,7 @@
                           http://www.imsglobal.org/xsd/imslticm_v1p0 imslticm_v1p0.xsd 
                           http://www.imsglobal.org/xsd/imslticp_v1p0 imslticp_v1p0.xsd">
     <title>Example tool</title>
-    <description>Example tool</description>
+    <description>Example tool description</description>
     <extensions platform="my.lms.com">
         <lticm:property name="icon_url">http://download.moodle.org/unittest/test.jpg</lticm:property>
         <lticm:property name="secure_icon_url">https://download.moodle.org/unittest/test.jpg</lticm:property>
