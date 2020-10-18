@@ -1,7 +1,9 @@
 Test files for external Moodle tests
 ====================================
 
-**It's really important to keep these files completely unmodified in order to obtain coherent test results in all supported moodle versions.**
+[![Build Status](https://travis-ci.com/moodlehq/moodle-exttests.svg?branch=master)](https://travis-ci.com/moodlehq/moodle-exttests/branches)
+
+**It's really important to keep these files completely unmodified in order to obtain coherent test results in all supported Moodle versions.**
 
 
 Installation:
