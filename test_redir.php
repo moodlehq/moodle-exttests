@@ -31,3 +31,7 @@ if ($redir <= 1) {
 
 header('HTTP/1.1 302 Found');
 header("Location: $target");
+
+if ($_GET['verbose'] ?? false) {
+    echo "You will be shortly redirected to {$target}";
+}
