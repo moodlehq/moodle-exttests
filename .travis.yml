@@ -5,6 +5,9 @@ install:
 
 script:
   - "docker run --name test0 -d -p 8000:80 moodle-exttests"
+  - until [ "`docker inspect -f {{.State.Health.Status}} test0`" == "healthy" ]; do
+        sleep 0.5;
+    done;
   - curl --fail -L http://127.0.0.1:8000/test_redir.php
 after_failure:
   - docker logs test0
