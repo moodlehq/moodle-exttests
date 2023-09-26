@@ -6,7 +6,11 @@ if (isset($_GET['done']) and $_GET['done'] == 1) {
 }
 
 // Redirect to full self URL.
-$testurl = 'http://'.$_SERVER['SERVER_NAME'].':'.$_SERVER['SERVER_PORT'].$_SERVER['SCRIPT_NAME'];
+$scheme = 'http';
+if (!empty($_SERVER['HTTPS']) && strcasecmp($_SERVER['HTTPS'], 'off') !== 0) {
+    $scheme = 'https';
+}
+$testurl = $scheme.'://'.$_SERVER['SERVER_NAME'].':'.$_SERVER['SERVER_PORT'].$_SERVER['SCRIPT_NAME'];
 
 // Determine if we require the final redirect to be an external destination.
 $extdest = isset($_GET['extdest']) ? '&extdest=' . $_GET['extdest'] : '';
