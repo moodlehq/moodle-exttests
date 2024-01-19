@@ -1,7 +1,7 @@
 Test files for external Moodle tests
 ====================================
 
-[![Test and publish](https://github.com/moodlehq/moodle-exttests/actions/workflows/test_buildx_and_publish.yml/badge.svg?branch=master)](https://github.com/moodlehq/moodle-php-apache/actions/workflows/test_buildx_and_publish.yml)
+[![Test and publish](https://github.com/moodlehq/moodle-exttests/actions/workflows/test_buildx_and_publish.yml/badge.svg?branch=main)](https://github.com/moodlehq/moodle-php-apache/actions/workflows/test_buildx_and_publish.yml)
 
 **It's really important to keep these files completely unmodified in order to obtain coherent test results in all supported Moodle versions.**
 
